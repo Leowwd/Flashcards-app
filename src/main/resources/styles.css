@@ -1,0 +1,11 @@
+.my-dialog .label {
+    -fx-font-size: 16;
+}
+
+.my-dialog .text-field {
+    -fx-font-size: 16;
+}
+
+.my-dialog .text {
+    -fx-font-size: 16;
+}
